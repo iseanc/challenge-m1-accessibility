@@ -2,67 +2,37 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
+This project is created for a Challenge Assignment for a Web Coding Bootcamp.  SCENARIO: A (fictional client) wishes for the project codebase to follow accessibility standards to help optimize the site for search engines.
 
-- What was your motivation?  
-ANSWER: A (fictional client) wishes for the project codebase to follow accessibility standards to help optimize the site for search engines.
+This is a practical application of Web Accessibility concepts learned in the web coding bootcamp, and an opportunity to explore Accessibility standards (e.g. WCAG 2.0) in greater depth.
 
-- Why did you build this project? This project is a practical application of Web Accessibility concepts learned in the bootcamp, and an opportunity to explore Accessibility standards (e.g. WCAG 2.0) in greater depth.
-- What problem does it solve?  
-- What did you learn?
+HTML and CSS code for a webpage have been updated to:
+- Use semantic HTML elements where possible.
+- Demonstrate logical HTML structure
+- Modify or add markup to improve user experience with assistive technologies.
+- Increase future code maintainability.
 
-## Table of Contents (Optional)
-
-If your README is long, add a table of contents to make it easy for users to find what they need.
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Credits](#credits)
-- [License](#license)
-
-## Installation
-
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
-
-## Usage
-
-Provide instructions and examples for use. Include screenshots as needed.
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
+Web Accessibility is a broad and deep subject.  This project only attempts to address very basic aspects of accessibility.
 
 ## Credits
 
-List your collaborators, if any, with links to their GitHub profiles.
+The following resources were used to implement this project:
 
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
+[W3C Web Content Accessibility Guidelines (WCAG)](https://www.w3.org/WAI/standards-guidelines/wcag/)
 
-If you followed tutorials, include links to those here as well.
+[WebAIM Web Accessibility Evaluation Tool (WAVE)](https://wave.webaim.org/)
 
 ## License
 
-The last section of a high-quality README file is the license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, refer to [https://choosealicense.com/](https://choosealicense.com/).
+[MIT License](/license.txt)
 
 ---
 
-🏆 The previous sections are the bare minimum, and your project will ultimately determine the content of this document. You might also want to consider adding the following sections.
+## Change Log
 
-## Badges
+The change log documents all changes made to fulfill acceptance criteria.
 
-![badmath](https://img.shields.io/github/languages/top/lernantino/badmath)
-
-Badges aren't necessary, per se, but they demonstrate street cred. Badges let other developers know that you know what you're doing. Check out the badges hosted by [shields.io](https://shields.io/). You may not understand what they all represent now, but you will in time.
-
-## Features
-
-If your project has a lot of features, list them here.
-
-## How to Contribute
-
-If you created an application or package and would like other developers to contribute it, you can include guidelines for how to do so. The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard, but you can always write your own if you'd prefer.
+[The changelog is available here](/CHANGELOG.md)
 
 ## Tests
 
