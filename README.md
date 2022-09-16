@@ -7,8 +7,8 @@ Provide a short description explaining the what, why, and how of your project. U
 - What was your motivation?  
 ANSWER: A (fictional client) wishes for the project codebase to follow accessibility standards to help optimize the site for search engines.
 
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
+- Why did you build this project? This project is a practical application of Web Accessibility concepts learned in the bootcamp, and an opportunity to explore Accessibility standards (e.g. WCAG 2.0) in greater depth.
+- What problem does it solve?  
 - What did you learn?
 
 ## Table of Contents (Optional)
